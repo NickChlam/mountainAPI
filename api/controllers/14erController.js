@@ -1,8 +1,8 @@
 
 var dbconfig = {
-        server: '54.237.212.134',
+        server: '',
         user: 'SA',
-        password: '!Dickhead123',
+        password: '',
         database: 'mountains',
         port: 1433,
         options: {

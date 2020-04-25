@@ -87,7 +87,7 @@ try:
                       'Server=54.237.212.134;'
                       'Database=mountains;'
                       'UID=SA;'
-                      'PWD=!Dickhead123;')
+                      'PWD=;')
 
     print('connection succeful')
 except Exception as ex:
